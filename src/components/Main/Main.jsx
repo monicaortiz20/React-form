@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Route, Routes } from 'react-router-dom'
 import Home from './Home';
 import ItemList from './ItemList';
-import NotFound from '../NotFound/index'
+import NotFound from '../NotFound';
 
 
 export class Main extends Component {
